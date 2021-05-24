@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Brackets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Brackets_jar</output-path>
+    <root id="archive" name="Brackets.jar">
+      <element id="module-output" name="Brackets" />
+    </root>
+  </artifact>
+</component>
